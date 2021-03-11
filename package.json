@@ -1,0 +1,19 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "This is the official React tutorial of Tic-Tac-Toe game. In this tutorial, we can learn the fundamental concepts of React and how it works commonly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hans-Tsai/React_tutorial.git"
+  },
+  "author": "Hans-Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hans-Tsai/React_tutorial/issues"
+  },
+  "homepage": "https://github.com/Hans-Tsai/React_tutorial#readme"
+}
